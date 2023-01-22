@@ -1,0 +1,10 @@
+## Interface: 100002
+## Title: Faction Filter
+## Notes: Adds a mask on vendor items that you will be able to unlock in the future but can't yet (Not enough rep, not the right crafting discipline)
+## Author: Monikr
+## Version: 0.1
+
+# Library Files
+FactionFilter.lua
+
+
